@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "941227419598",
+    "project_id": "rural-cbd75",
+    "storage_bucket": "rural-cbd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941227419598:android:faf7998cb6a22fbdd66d9f",
+        "android_client_info": {
+          "package_name": "com.example.agritech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941227419598-krigtljghs7ejrtiu6mgamr8pqoqgaqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agritech",
+            "certificate_hash": "314749485b07f47d2c323f1ffe95150e9de19b6b"
+          }
+        },
+        {
+          "client_id": "941227419598-isr28huqdqdl3qp4d469gp514adurs8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Qnk3nuvPq6f41bGB_Y2XgK_P68_tbvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941227419598-3edh22150jhumh6ei8t3taigp13m9kq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941227419598-7gborq7uba9o6bnamao5flqg0aetvbnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agritech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
